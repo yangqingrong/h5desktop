@@ -3,7 +3,7 @@ create html5 file,and let h5desktop.exe render it as a desktop application.
 
 # step by step
 ## step 1
-download and install webview2 runtime first https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section
+download and install webview2 runtime first manually https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section
 
 clone this project or download it as zip file,and unzip it
 ## step 2
@@ -15,6 +15,10 @@ click h5desktop.exe to see your page.
 ## step 5
 take a look you screen to check if it works.
 
+# demo1.bat
+```shell
+h5desktop.exe D:\projects\site1\config.json
+```
 
 # thanks
 
