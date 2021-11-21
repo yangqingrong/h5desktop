@@ -17,7 +17,7 @@ take a look you screen to check if it works.
 
 # demo1.bat
 ```shell
-h5desktop.exe D:\projects\site1\config.json
+start h5desktop.exe D:\projects\site1\config.json
 ```
 
 # thanks
