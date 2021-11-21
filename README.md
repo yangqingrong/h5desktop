@@ -3,7 +3,7 @@ create html5 file,and let h5desktop.exe render it as a desktop application.
 
 # step by step
 ## step 1
-download a webview runtime first https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section
+download a webview2 runtime first https://developer.microsoft.com/zh-cn/microsoft-edge/webview2/#download-section
 
 clone this project or download it as zip file,and unzip it
 ## step 2
